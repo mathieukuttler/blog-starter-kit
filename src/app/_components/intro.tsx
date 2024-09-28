@@ -13,3 +13,11 @@ export function Intro() {
     </section>
   );
 }
+
+
+/*  this is the original code from the tutorial
+<!--A statically generated blog example using{" "}
+Next.js
+</a>{" "}
+and {CMS_NAME}.
+*/
